@@ -1,20 +1,10 @@
 # KomikStation Manhwa Scraper
 
 <p align="center">
-  <strong>Fast, lightweight, and modular KomikStation manhwa scraper for Node.js.</strong>
-</p><p align="center">
-  Search manga, inspect chapters, retrieve metadata, and download available chapters as ZIP archives.
-</p><p align="center">"Node.js" (https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ESM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Scraper" (https://img.shields.io/badge/Type-Web%20Scraper-111827?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Active-16a34a?style=for-the-badge)
-
-</p><p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#api-reference">API</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#examples">Examples</a>
+  <img src="https://img.shields.io/badge/Node.js-18%2B-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-ESM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Scraper-Web-111827?style=flat-square" alt="Web Scraper">
+  <img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square" alt="Active">
 </p>---
 
 Overview
